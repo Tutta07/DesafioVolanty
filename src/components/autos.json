@@ -1,0 +1,16 @@
+{
+    "autos":[
+        {
+    "id": "2013",
+    "ano_modelo": "2013",
+    "marca": "Fiat",
+    "name": "Palio 1.0 ECONOMY Fire Flex 8V 4p",
+    "veiculo": "Palio 1.0 ECONOMY Fire Flex 8V 4p",
+    "preco": "R$ 23.055,00",
+    "combustivel": "Gasolina",
+    "referencia": "agosto de 2015",
+    "fipe_codigo": "001267-0",
+    "key": "palio-2013"
+}
+    ]
+}
